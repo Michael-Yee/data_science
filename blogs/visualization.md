@@ -10,25 +10,25 @@ The interpretation of data is seldom comprehensible by viewing columns and colum
 
 Let us look at a simple example to understand our discussion...
 
-Examine the following tables showing two columns with x and y values.  At first glace, one might assert that the x and y values in both tables seem equivalent.
+Examine the following table showing columns with x and y values.  At first glace, one might assert that the x and y values seem equivalent.
 
 
-| X1 | Y1 || X2 | Y2 | 
-|----|-------||----|-------|
-| 8 | 6.88 || 8 | 5.88 |
-| 15 | 11.68 || 15 | 12.78 |
-| 12 | 9.77 || 12 | 11.77 |
-| 5 | 5.33 || 5 | 5.33 |
-| 7 | 6.69 || 7 | 6.19 |
-| 14 | 13.66 || 14 | 11.66 |
-| 10 | 8.16 || 10 | 9.16 |
-| 6 | 5.99 || 6 | 5.99 |
-| 9 | 8.53 || 9 | 5.53 |
-| 11 | 8.88 || 11 | 12.88 |
-| 13 | 9.75 || 13 | 11.75 |
+| X1 | Y1 | X2 | Y2 | 
+|----|-------|----|-------|
+| 8 | 6.88 | 8 | 5.88 |
+| 15 | 11.68 | 15 | 12.78 |
+| 12 | 9.77 | 12 | 11.77 |
+| 5 | 5.33 | 5 | 5.33 |
+| 7 | 6.69 | 7 | 6.19 |
+| 14 | 13.66 | 14 | 11.66 |
+| 10 | 8.16 | 10 | 9.16 |
+| 6 | 5.99 | 6 | 5.99 |
+| 9 | 8.53 | 9 | 5.53 |
+| 11 | 8.88 | 11 | 12.88 |
+| 13 | 9.75 | 13 | 11.75 |
 
 
-Let us examine the plot of the these two tables to confirm our assertion.
+Let us examine the two plots to confirm our assertion.
 
 ![Table 1](../images/visualizations-table1.png "Table 1")
 
