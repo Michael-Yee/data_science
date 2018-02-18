@@ -10,8 +10,7 @@ The interpretation of data is seldom comprehensible by viewing columns and colum
 
 Let us look at a simple example to understand our discussion...
 
-Examine the following table showing columns with X1, Y1, X2 and Y2 values.  At first glace, one might assert that the Xs and Ys values seem equivalent.
-
+Examine the following table showing columns with X1, Y1, X2 and Y2 values.  
 
 | X1 | Y1 | X2 | Y2 | 
 |----|-------|----|-------|
@@ -27,6 +26,9 @@ Examine the following table showing columns with X1, Y1, X2 and Y2 values.  At f
 | 11 | 8.88 | 11 | 12.88 |
 | 13 | 9.75 | 13 | 11.75 |
 
+At first glace, one might assert that the Xs and Ys values seem equivalent.
+
+---
 
 Let us examine X1 and Y1 verses X2 and Y2 by plotting the two and confirming our assertion.
 
@@ -39,7 +41,7 @@ As you can see, our assumption was far from correct as each plots tells a differ
 
 ## Part 2: Important Features of Data Visualization Software
 
-Whether you are developing or using third party software tool, the software tool must have the following key features, as follows:
+Whether you are developing or using third party software, the software must have the following key features, as follows:
 
 ### Customizable Dashboards
 
@@ -50,7 +52,7 @@ Dashboards must be customizable to the target audience's real-time requirements.
 
 ### Reports
 
-The software must have the ability to manipulate the relevant data (in countless different ways) to then be compiled into a quickly digestible report.  
+The software must have the ability to manipulate the relevant data to then be compiled into a quickly digestible report.  
 
 ### Real-Time
 
