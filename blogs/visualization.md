@@ -13,9 +13,8 @@ Let us look at a simple example to understand our discussion...
 Examine the following tables showing two columns with x and y values.  At first glace, one might assert that the x and y values in both tables seem equivalent.
 
 
-| TABLE 1     |     | TABLE 2     |     
-|-------------|     |-------------|     
-
+| TABLE 1 | TABLE 2 |     
+|---------|---------|     
 | X1 | Y1 | X2 | Y2 | 
 |----|-------|----|-------|
 | 8 | 6.88 | 8 | 5.88 |
@@ -33,8 +32,7 @@ Examine the following tables showing two columns with x and y values.  At first 
 
 Let us examine the plot of the these two tables to confirm our assertion.
 
-![Table 1](../images/visualizations-table1.png "Table 1")
-![Table 2](../images/visualizations-table2.png "Table 2")
+![Table 1](../images/visualizations-table1.png "Table 1")![Table 2](../images/visualizations-table2.png "Table 2")
 
 As you can see, our assumption was far from correct as both plots tells a different story.  
 
