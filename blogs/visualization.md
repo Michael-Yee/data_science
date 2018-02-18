@@ -2,15 +2,15 @@
 
 By Michael Yee
 
-I this blog, I will discuss one of the most importance parts of data analysis: data visualization. The visual representation of data is a skill that every data scientists must master in order to communicate information clearly, efficiently and visually appealing via plots, information and statistical graphics with their target audience.  
+In this blog, I will discuss one of the most importance skills of a data scientist: data visualization.
 
 ## Part 1: The Data
 
-The interpretation of data is seldom comprehensible by viewing columns and columns of numbers.  Data visualization bridges that gap and allows data scientist to communicate their data analysis by transforming the data into visualizations. 
+The interpretation of data is seldom comprehensible by viewing columns and columns of numbers.  Data visualization bridges that gap and allows data scientist to communicate their analysis by transforming the data into visualization. 
 
 Let us look at a simple example to understand our discussion...
 
-Examine the following table showing columns with x and y values.  At first glace, one might assert that the x and y values seem equivalent.
+Examine the following table showing columns with X1, Y1, X2 and Y2 values.  At first glace, one might assert that the Xs and Ys values seem equivalent.
 
 
 | X1 | Y1 | X2 | Y2 | 
@@ -28,24 +28,40 @@ Examine the following table showing columns with x and y values.  At first glace
 | 13 | 9.75 | 13 | 11.75 |
 
 
-Let us examine the two plots to confirm our assertion.
+Let us examine X1 and Y1 verses X2 and Y2 by plotting the two and confirming our assertion.
 
-![Table 1](../images/visualizations-table1.png "Table 1")
+![Plot 1](../images/visualization-plot1.png "Plot 1")
 
-![Table 2](../images/visualizations-table2.png "Table 2")
+![Plot 2](../images/visualization-plot2.png "Plot 2")
 
-As you can see, our assumption was far from correct as both plots tells a different story.  
+As you can see, our assumption was far from correct as each plots tells a different story.  
 
 
+## Part 2: Important Features of Data Visualization Software
 
-## Part 2: Important Features of Data Visualization
+Whether you are developing or using third party software tool, the software tool must have the following key features, as follows:
 
 ### Customizable Dashboards
 
-### Data Mining
+Dashboards must be customizable to the target audience's real-time requirements.
 
-### Interactive Reporting
+    quick and easy process to instantly add or remove visualization
+    intuitive process in arranging the visualization
 
-### Location Intelligence
+### Reports
 
-### Real-Time Access 
+The software must have the ability to manipulate the relevant data (in countless different ways) to then be compiled into a quickly digestible report.  
+
+### Real-Time
+
+The ability to access the relevant data at anytime on any device.
+
+
+## Summary
+
+The visual representation of data is a skill that every data scientists must master in order to communicate information clearly, efficiently and visually appealing via plots, information and statistical graphics with their target audience.
+
+
+## Coming Up...
+
+In the next few weeks, I will be blogging upon paid and open source data visualization tools such as Tableau and Plotly.  These blogs will be a step by step guide from installation to creating your first dashboard and report.
