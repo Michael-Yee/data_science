@@ -1,6 +1,6 @@
 # Fraud Detection
 
-In this blog, I will briefly define the traditional approach for fraud detection and discuss a alternative solution using machine learning.
+In this blog, I will briefly define the traditional approach for fraud detection and discuss an alternative solution using machine learning.
 
 ## Out with the old, in with the new
 
@@ -27,9 +27,9 @@ If an organization has very little data or none at all, synthetic dataset can be
 To train a machine learning model, sometime you will need three datasets, where the data is unique to each dataset.  The following is a suggested percentage and a brief description for each dataset:
 
 ```
-	Train - 80% of your data - used to train your model
-	Validation - 10% of your data - estimate how well your model has been trained 
-	Test - 10% of your data - used model metrics (precision, recall and f-score)
+	Train - 80% of the data - used to train your model
+	Validation - 10% of the data - estimate how well your model is being trained 
+	Test - 10% of the data -  used to test model metrics (precision, recall and f-score)
 
 	NOTE: To compare future models metrics, add upon these datasets
 ```
