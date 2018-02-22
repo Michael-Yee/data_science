@@ -55,7 +55,7 @@ Fraud detection is typically handled as a binary classification task (for each t
 
 ## Outlier detection using autoencoder
 
-Autoencoder seems to be the favour of the month for fraud detection.  Autoencoder use neural networks to receive your input data and are trained to output that very same data. Autoencoder model optimize the parameters in such way that a special kind of error — reconstruction error is minimized. Outliers (fraudulent transactions) are identified as their reconstruction error is larger than the core of regular observations (not fraudulent transactions).
+Autoencoder seems to be the flavour of the month for fraud detection.  Autoencoder use neural networks to receive your input data and are trained to output that very same data. Autoencoder model optimize the parameters in such way that a special kind of error — reconstruction error is minimized. Outliers (fraudulent transactions) are identified as their reconstruction error is larger than the core of regular observations (not fraudulent transactions).
 
 ## Next steps...
 
