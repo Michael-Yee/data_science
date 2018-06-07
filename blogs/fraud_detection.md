@@ -24,7 +24,7 @@ If an organization has very little data or none at all, synthetic dataset can be
 
 ### Dataset
 
-To train a machine learning model, sometime you will need three datasets, where the data is unique to each dataset.  The following is a suggested percentage and a brief description for each dataset:
+To train a machine learning model, sometime you will need three datasets, where the data is unique to each dataset.  The following is a suggested percentage (when you have a small dataset) and a brief description for each dataset:
 
 ```
 	Train - 80% of the data - used to train your model
